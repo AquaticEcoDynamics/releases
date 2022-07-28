@@ -1,12 +1,13 @@
-		# 2021 AED release: libaed 2.0
+# 2021 AED release: libaed 2.0
 
 
-				- PDF: [AED2 draft Science Manual]("downloads/AED_ScienceManual_v4_draft.pdf") (2014 version)
-				- Online Documentation: [View science manual]("https://aquaticecodynamics.github.io/aed-science/index.html") (Under development)
-				- Code Structure: Model Diagram 
+- PDF: [AED2 draft Science Manual](http://aed.see.uwa.edu.au/research/models/aed/downloads/AED_ScienceManual_v4_draft.pdf) (2014 version)
+- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html) (Under development)
+- Code Structure: Model Diagram 
 
-			## Update notes
-						- Change from **libaed2** to **libaed-water**, **libaed-benthic**, **libaed-riparian** code libraries (AED 2.0)
+## Update notes
+
+- Change from **libaed2** to **libaed-water**, **libaed-benthic**, **libaed-riparian** code libraries (AED 2.0)
 
 
 
