@@ -5,7 +5,58 @@ The **releases** github repository is home to the AED current and historical bin
 The "AED" modelling code-base is a community-driven library of modules and algorithms for simulation of "aquatic ecodynamics" - water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 
 Several options exist for using the model - depedning on the host model and the level of complexity required. Currently 3 main code bundles exist including AED2, AED2+, and a legacy bundle AED bundle that works in the FABM framework (FABM-AED).
+## 2022 AED release: libaed 2.2.1
 
+
+- PDF: [AED2 draft Science Manual](http://aed.see.uwa.edu.au/research/models/aed/downloads/AED_ScienceManual_v4_draft.pdf) (2014 version)
+- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html) (Under development)
+- Code Structure: Model Diagram 
+
+## Update notes
+
+
+  
+
+
+
+<table width="100%">
+<tr>
+ <th>Download <i class="fa fa-download"></i></th>
+ <th>Model host</th>
+ <th>AED generation</th>
+ <th><i class="fa fa-database"></i> GLM</th>
+ <th><i class="fa fa-cubes"></i> TUFLOW-FV compatibility</th>
+ <th><a href="#" rel="tooltip" title="FV-AED coupler">aed-fv</a></th>
+ <th><a href="#" rel="tooltip" title="AED modules">libaed</a></th>
+ <th><a href="#" rel="tooltip" title="AED+ modules">libaed-plus</a></th>
+ <th>Comment</th>
+</tr>
+<tr><th colspan="9">2022 release</th><tr>
+<tr>
+  <td><sub><i class="fa fa-windows"></i> tuflowfv_external_wq-2.2.1.zip<br><i class="fa fa-linux"></i> tuflowfv_external_wq-2.0.0.tar.gz</th>
+ <td><sub>TUFLOW-FV</sub></td>
+ <td><sub>2.2.1</sub></td>
+ <td><sub>-</sub></td>
+ <td><sub>2020.03</sub></td>
+ <td><sub>1.3.2</sub></td>
+ <td><sub>2.0.0</sub></td>
+ <td><sub>-</sub></td>
+ <td><sub>Windows/Linux release of AED plugin for TUFLOW-FV</sub></td>
+</tr>
+<tr>
+ <td><sub><i class="fa fa-windows"></i> glm_3.3.0.zip</th>
+ <td><sub>GLM</sub></td>
+ <td><sub>2.0</sub></td>
+ <td><sub>3.3.0</sub></td>
+ <td><sub>-</sub></td>
+ <td><sub>-</sub></td>
+ <td><sub>2.0.0</sub></td>
+ <td><sub>-</sub></td>
+ <td><sub>Windows/Linux/MacOSX release of GLM-AED</sub></td>
+</tr>
+
+
+</table>
 
 
 ## 2021 AED release: libaed 2.0
