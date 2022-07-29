@@ -1,4 +1,4 @@
-# 2021 AED release: libaed 2.0
+## 2021 AED release: libaed 2.0
 
 
 - PDF: [AED2 draft Science Manual](http://aed.see.uwa.edu.au/research/models/aed/downloads/AED_ScienceManual_v4_draft.pdf) (2014 version)
