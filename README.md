@@ -33,7 +33,7 @@ Several options exist for using the model - depedning on the host model and the 
 </tr>
 <tr><th colspan="9">2022 release</th><tr>
 <tr>
-  <td><sub><i class="fa fa-windows"></i> tuflowfv_external_wq-2.0.0.zip<br><i class="fa fa-linux"></i> tuflowfv_external_wq-2.0.0.tar.gz</th>
+  <td><sub><i class="fa fa-windows"></i> tuflowfv_external_wq-2.2.1.zip<br><i class="fa fa-linux"></i> tuflowfv_external_wq-2.0.0.tar.gz</th>
  <td><sub>TUFLOW-FV</sub></td>
  <td><sub>2.2.1</sub></td>
  <td><sub>-</sub></td>
@@ -44,7 +44,7 @@ Several options exist for using the model - depedning on the host model and the 
  <td><sub>Windows/Linux release of AED plugin for TUFLOW-FV</sub></td>
 </tr>
 <tr>
- <td><sub><i class="fa fa-windows"></i> glm_3.2.0.zip</th>
+ <td><sub><i class="fa fa-windows"></i> glm_3.3.0.zip</th>
  <td><sub>GLM</sub></td>
  <td><sub>2.0</sub></td>
  <td><sub>3.3.0</sub></td>
