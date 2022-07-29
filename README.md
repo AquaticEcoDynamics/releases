@@ -6,8 +6,6 @@ The "AED" modelling code-base is a community-driven library of modules and algor
 
 Several options exist for using the model - depedning on the host model and the level of complexity required. Currently 3 main code bundles exist including AED2, AED2+, and a legacy bundle AED bundle that works in the FABM framework (FABM-AED).
 
-The below information summarises the six key steps to get the AED/AED2/AED2+ model up and running.
-
 
 
 ## 2021 AED release: libaed 2.0
