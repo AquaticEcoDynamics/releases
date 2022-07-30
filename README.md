@@ -4,17 +4,17 @@ The **releases** github repository is home to the AED current and historical bin
 
 The "AED" modelling code-base is a community-driven library of modules and algorithms for simulation of "aquatic ecodynamics" - water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 
-Several options exist for using the model - depedning on the host model and the level of complexity required. Currently 3 main code bundles exist including AED2, AED2+, and a legacy bundle AED bundle that works in the FABM framework (FABM-AED).
+Several options exist for using the model - depedning on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+. 
+<br>
+
 ## 2022 AED release: libaed 2.0.5b
 
 
-- PDF: [AED2 draft Science Manual](http://aed.see.uwa.edu.au/research/models/aed/downloads/AED_ScienceManual_v4_draft.pdf) (2014 version)
-- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html) (Under development)
-- Code Structure: Model Diagram 
+- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
 
 ## Update notes
 
-
+<br>
   
 
 
