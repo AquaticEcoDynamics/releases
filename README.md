@@ -4,18 +4,18 @@ The "AED" modelling code-base is a community-driven library of modules and algor
 
 This **releases** github repository is home to the AED current and historical binaries (pre-compiled model executables for different platforms).
 
-Several options exist for using the model - depending on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+, each available for GLM and TUFLOW-FV. 
+Several options exist for using the model - depending on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+, each available for [GLM](https://github.com/AquaticEcoDynamics/GLM) and [TUFLOW-FV](https://www.tuflow.com/products/tuflow-fv/). 
 
-For users seeking the latest codeof each, please access the [glm-aed](https://github.com/AquaticEcoDynamics/glm-aed) or fv-aed development bundles.
+For users seeking the latest code of each and model documentation, please access the [`glm-aed`](https://github.com/AquaticEcoDynamics/glm-aed) or `fv-aed` development bundles.
 
 <br>
 
-## 2022 AED release: libaed 2.0.5
+## 2022 AED release: libaed 2.0.5 (beta)
 
 
 - Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
 
-## Update notes
+### Update notes
 
 <br>
   
@@ -62,21 +62,19 @@ For users seeking the latest codeof each, please access the [glm-aed](https://gi
 </table>
 
 
+<br> 
+
 ## 2021 AED release: libaed 2.0
 
 
-- PDF: [AED2 draft Science Manual](http://aed.see.uwa.edu.au/research/models/aed/downloads/AED_ScienceManual_v4_draft.pdf) (2014 version)
-- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html) (Under development)
-- Code Structure: Model Diagram 
+- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
 
-## Update notes
+### Update notes
 
 - Change from **libaed2** to **libaed-water**, **libaed-benthic**, **libaed-riparian** code libraries (AED 2.0)
 
 
-  
-
-
+<br>
 
 <table width="100%">
 <tr>
@@ -138,6 +136,10 @@ For users seeking the latest codeof each, please access the [glm-aed](https://gi
 </tr>
 
 </table>
+
+<br> 
+
+## Historical AED releases: libaed2 
 
 <table width="100%">
 
