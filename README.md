@@ -1,13 +1,16 @@
 # Releases
 
-The **releases** github repository is home to the AED current and historical binaries.
-
 The "AED" modelling code-base is a community-driven library of modules and algorithms for simulation of "aquatic ecodynamics" - water quality, aquatic biogeochemsitry, biotic habitat and aquatic ecosystem dynamics.
 
-Several options exist for using the model - depedning on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+. 
+This **releases** github repository is home to the AED current and historical binaries (pre-compiled model executables for different platforms).
+
+Several options exist for using the model - depending on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+, each available for GLM and TUFLOW-FV. 
+
+For users seeking the latest codeof each, please access the [glm-aed](https://github.com/AquaticEcoDynamics/glm-aed) or fv-aed development bundles.
+
 <br>
 
-## 2022 AED release: libaed 2.0.5b
+## 2022 AED release: libaed 2.0.5
 
 
 - Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
