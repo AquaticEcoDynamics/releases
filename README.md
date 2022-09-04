@@ -6,14 +6,18 @@ This **releases** github repository is home to the AED current and historical bi
 
 Several options exist for using the model - depending on the host model and the level of complexity required. Currently 2 main code bundles exist including AED and AED+, each available for [GLM](https://github.com/AquaticEcoDynamics/GLM) and [TUFLOW-FV](https://www.tuflow.com/products/tuflow-fv/). 
 
-For users seeking the latest code of each and model documentation, please access the [`glm-aed`](https://github.com/AquaticEcoDynamics/glm-aed) or `fv-aed` development bundles.
+For users seeking the latest code of each and model documentation, please access the [`glm-aed`](https://github.com/AquaticEcoDynamics/glm-aed) or [`fv-aed`](https://github.com/AquaticEcoDynamics/fv-aed) development bundles.
 
 <br>
 
-## 2022 AED release: libaed 2.0.5 (beta)
+- Online documentation for the model: [Visit the AED science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
+
+<br>
 
 
-- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
+## 2022 AED release: libaed 2.0.6
+
+
 
 ### Update notes
 
@@ -43,7 +47,7 @@ For users seeking the latest code of each and model documentation, please access
  <td><sub>2020.03</sub></td>
  <td><sub>2.2.1</sub></td>
  <td><sub>2.0.5b</sub></td>
- <td><sub>-</sub></td>
+ <td><sub>2.0.6</sub></td>
  <td><sub>Windows/Linux release of AED plugin for TUFLOW-FV</sub></td>
 </tr>
 <tr>
@@ -54,7 +58,7 @@ For users seeking the latest code of each and model documentation, please access
  <td><sub>-</sub></td>
  <td><sub>-</sub></td>
  <td><sub>2.0.5b</sub></td>
- <td><sub>-</sub></td>
+ <td><sub>2.0.6</sub></td>
  <td><sub>Windows/Linux/MacOSX release of GLM-AED</sub></td>
 </tr>
 
@@ -67,12 +71,9 @@ For users seeking the latest code of each and model documentation, please access
 ## 2021 AED release: libaed 2.0
 
 
-- Online Documentation: [View science manual](http://aquaticecodynamics.github.io/aed-science/index.html)
-
 ### Update notes
 
 - Change from **libaed2** to **libaed-water**, **libaed-benthic**, **libaed-riparian** code libraries (AED 2.0)
-
 
 <br>
 
@@ -248,7 +249,7 @@ For users seeking the latest code of each and model documentation, please access
 </tr>
 <tr><th colspan="9">pre 2014</th><tr>
 <tr>
- <td><sub><i class="fa fa-windows"></i> ?</th>
+ <td><sub><i class="fa fa-windows"></i> glm.exe</th>
  <td><sub>GLM</sub></td>
  <td><sub>0.9</sub></td>
  <td><sub>1.4.0</sub></td>
