@@ -1,16 +1,17 @@
 This build is produced from the following git points :
 
-cc2d058 AED_Tools
-2487219 GLM
-68e29b1 libplot
-c592493 libutil
-5d6cf5d libaed-water
-37b12f8 libaed-benthic
-52e633e libaed-demo
+dc5258b AED_Tools_Private
+0c158ea GLM
+b361a50 libplot
+c06b7c6 libutil
+6fd233d libaed-water
+d33c726 libaed-benthic
+7c91082 libaed-demo
 45e9d95 libaed2
 
 The plus version also has :
 
-f453ab0 libaed-riparian
-5eddc9c libaed-dev
+c08ed4e libaed-riparian
+08f44d5 libaed-light
+3458944 libaed-dev
 80942f9 libaed2-plus
