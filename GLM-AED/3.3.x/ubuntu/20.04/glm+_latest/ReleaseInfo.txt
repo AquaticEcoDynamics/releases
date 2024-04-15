@@ -13,5 +13,5 @@ The plus version also has :
 
 55f4b40 libaed-riparian
 bf105ef libaed-light
-faf13a5 libaed-dev
+5e26514 libaed-dev
 80942f9 libaed2-plus
