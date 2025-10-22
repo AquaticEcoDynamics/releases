@@ -15,6 +15,9 @@ For users seeking the latest code of each and model documentation, please access
 <br>
 
 
+## 2025 AED release: libaed 2.3
+
+
 ## 2022 AED release: libaed 2.0.6
 
 
